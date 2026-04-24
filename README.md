@@ -1,6 +1,6 @@
 # Laboratoire de Trigonométrie
 
-![Laboratoire de Trigonométrie](Laboratoire de Trigonométrie.png)
+![Laboratoire de Trigonométrie](Laboratoire%20de%20Trigonométrie.png)
 
 ---
 
